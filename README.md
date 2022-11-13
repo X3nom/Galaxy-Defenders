@@ -16,3 +16,5 @@ This is a game I made back in 2021 using pygame.
     -shield - makes player invincible for some amount of time, needs 70% power
     
     -homing missile - shoots bullet, that automaticcaly finds its way to asteroids, needs 35% power
+## Note
+For some reason game does not want to run from file explorer, but runs just fine from VScode
